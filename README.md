@@ -14,5 +14,5 @@ This project implements a Machine Learning Regression model to predict the price
 1. Install the required libraries:
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
-2. Run the script
-   python car_prediction.py
+## Run the Script
+  2. python car_prediction.py
